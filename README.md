@@ -35,6 +35,8 @@
 
 ### Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/aaaaaaaaaoaao)
+[![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=discord&logoColor=7289DA)](https://discord.com/invite/aaaaaaaaaa#6666)
+[![LeetCode](https://img.shields.io/badge/-Leetcode-090909?style=for-the-badge&logo=leetcode&logoColor=f5f5f5)](https://leetcode.com/hardsuit/)
 ### Stats
 ![](https://leetcard.jacoblin.cool/hardsuit?ext=contest)
 [![Maksim's GitHub stats](https://github-readme-stats.vercel.app/api?username=maksimsinyu)](https://github.com/anuraghazra/github-readme-stats)
