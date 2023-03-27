@@ -1,4 +1,6 @@
-[![Header](https://github.com/MaksimSinyu/maksimsinyu/blob/main/assets/image_861011182205489056860.gif)](https://github.com/MaksimSinyu)
+<p align="center">
+  <img src="assets/image_861011182205489056860.gif" width="500" height="200" align="right" />
+</p>
 
 # I am a beginner in Data Engineering and Game Development (C++, C#, Python, MySQL).
 
