@@ -1,8 +1,9 @@
+<h2>I am a beginner in Data Engineering and Game Development (C++, C#, Python, MySQL)</h2>
 <p align="center">
-  <img src="assets/image_861011182205489056860.gif" width="300" height="250" align="right" />
+  <img src="assets/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966.gif" width="180" height="130" align="right" />
 </p>
 
-<h2>I am a beginner in Data Engineering and Game Development (C++, C#, Python, MySQL)</h2>
+
 
 ### Languages and Tools
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
