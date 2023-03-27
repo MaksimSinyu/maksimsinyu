@@ -3,7 +3,21 @@
   <img src="assets/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966.gif" width="300" height="200" align="right" />
 </p>
 
-<h3>A passionate Developer from Ukraine 🇺🇦</h3>
+<h3> A passionate Developer from Ukraine 🇺🇦 </h3>
+
+<h4>
+
+🌱 I’m currently learning MySQL + Python
+
+👨‍💻 All of my projects are available at https://github.com/MaksimSinyu
+
+💬 Ask me about Python, C++, C#, Leetcode, Algorithms & Data structures
+
+📫 How to reach me asdasdasdwad42@gmail.com
+
+📄 Know about my experiences SOON...
+
+⚡ Fun fact I think I am funny</h4>
 
 
 
